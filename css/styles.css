@@ -387,7 +387,7 @@ img {
 }
 
 .social-links-item .link:hover,
-:focus {
+.social-links-item .link:focus {
   background-color: #404bbf;
 }
 
@@ -559,6 +559,6 @@ img {
 }
 
 .social-links-footer .link:hover,
-:focus {
+.social-links-footer .link:focus {
   background-color: #31d0aa;
 }
